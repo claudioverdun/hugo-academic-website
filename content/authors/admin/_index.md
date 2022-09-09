@@ -1,5 +1,5 @@
 ---
-role: PhD student in mathematics
+role: AAAAPhD student in mathematics
 avatar_filename: verdun.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
