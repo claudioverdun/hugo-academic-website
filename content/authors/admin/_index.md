@@ -1,8 +1,8 @@
 ---
 role: AAAAPhD student in mathematics
 avatar_filename: verdun.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include foundations of machine learning, signal
+  processing, "
 interests:
   - Non-convex optimization
   - High-dimensional statistics
