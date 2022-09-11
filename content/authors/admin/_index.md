@@ -1,5 +1,5 @@
 ---
-role: AAAAPhD student in mathematics
+role: PhD student in mathematics
 avatar_filename: verdun.png
 bio: "My research interests include foundations of machine learning, signal
   processing, "
