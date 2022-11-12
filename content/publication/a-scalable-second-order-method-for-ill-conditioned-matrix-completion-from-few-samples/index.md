@@ -2,11 +2,12 @@
 title: A Scalable Second Order Method for Ill-Conditioned Matrix Completion from
   Few Samples
 publication_types:
-  - "0"
+  - "1"
 authors:
   - C. Kümmerle
   - C. Mayrink Verdun
-publication_short: International Conference on Machine Learning
+publication: International Conference on Machine Learning
+publication_short: ICML
 draft: false
 featured: false
 image:
