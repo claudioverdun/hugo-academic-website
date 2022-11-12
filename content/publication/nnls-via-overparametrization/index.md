@@ -1,7 +1,7 @@
 ---
 title: Non-negative Least Squares via Overparametrization
 publication_types:
-  - "0"
+  - "3"
 authors:
   - H.–H. Chou
   - J. Maly and C. Mayrink Verdun
@@ -12,5 +12,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-09-08T14:36:51.792Z
+date: 2022-07-18
 ---
