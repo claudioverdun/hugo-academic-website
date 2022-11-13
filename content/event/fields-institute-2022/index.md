@@ -14,7 +14,7 @@ abstract: In many applications, solutions of numerical problems are required to
   Johannes Maly and Hung-Hsu Chou.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: ""
 date_end: 2022-05-09T17:30:00.000Z
 event_url: http://www.fields.utoronto.ca/activities/21-22/data-harmonic
 authors: []
