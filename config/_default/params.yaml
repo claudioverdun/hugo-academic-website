@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}. Icon by [Free Preloaders](https://freeicons.io/profile/726) on [freeicons.io](https://freeicons.io)'
     license:
       enable: true
       allow_derivatives: false
@@ -63,7 +63,7 @@ features:
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
-  math: 
+  math:
     enable: true
   privacy_pack:
     enable: false
