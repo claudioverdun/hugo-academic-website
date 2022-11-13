@@ -1,14 +1,12 @@
 ---
-title: "Claudio
-
-Mayrink Verdun"
-role: PhD student in mathematics
-bio: "My research interests include foundations of machine learning, signal
-  processing, "
+title: Claudio Mayrink Verdun
+role: PhD student in Mathematics
+bio: "Compressive Sensing - Machine Learning - Signal Processing"
 interests:
-  - Non-convex optimization
-  - High-dimensional statistics
-  - Compressive Sensing
+  - Compressive sensing
+  - Optimization
+  - Magnetic resonance imaging
+  - Machine learning
 social:
   - icon: envelope
     icon_pack: fas
