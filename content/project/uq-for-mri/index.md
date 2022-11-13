@@ -1,28 +1,20 @@
 ---
-title: Uncertainty Quantification for Sparse Magnetic Resonance Imaging
-summary: An example of using the in-built project page.
-tags: []
-date: 2022-11-13
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
-links: ''
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
+url_pdf: ""
+summary: An example of using the in-built project page.
+url_video: ""
+date: 2022-11-13
+external_link: ""
+url_slides: ""
+title: Uncertainty Quantification for Sparse Magnetic Resonance Imaging
+tags: []
+links: ""
+image:
+  caption: Confidence intervals based on the debiased LASSO for the pixels of a MR
+    image with largest magnitude sorted in a descending order.
+  focal_point: Center
+  filename: confidence_intervals.png
+url_code: ""
 ---
 
 In this project, I worked closely together with the PhD student Frederik Hoppe (RWTH Aachen) as part of our SPARSE3D+ project.
