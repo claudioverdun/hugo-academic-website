@@ -15,11 +15,11 @@ abstract: In many applications, solutions of numerical problems are required to
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-date_end: 2022-05-09T20:30:00.000Z
+date_end: 2022-05-09T17:30:00.000Z
 event_url: http://www.fields.utoronto.ca/activities/21-22/data-harmonic
 authors: []
 url_video: https://www.youtube.com/watch?v=aNumBk4W2YM
-date: 2022-05-09T20:00:00.000Z
+date: 2022-05-09T17:00:00.000Z
 featured: false
 url_slides: ""
 address:
