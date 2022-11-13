@@ -27,7 +27,8 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: claudioverdun@gmail.com
+  email: verdun@ma.tum.de
+
   # phone: 888 888 88 88
   #address:
   #  street: 450 Serra Mall
