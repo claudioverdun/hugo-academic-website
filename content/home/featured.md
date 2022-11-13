@@ -36,5 +36,4 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-
-Click to see [full list of publications.](./publication/)
+Click to see my [full list of publications.](./publication/)
