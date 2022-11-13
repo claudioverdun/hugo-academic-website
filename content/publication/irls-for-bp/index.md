@@ -9,7 +9,7 @@ authors:
 publication: Advances in Neural Information Processing Systems (Spotlight, 3% best papers)
 publication_short: NeurIPS (Spotlight, 3% best papers)
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart

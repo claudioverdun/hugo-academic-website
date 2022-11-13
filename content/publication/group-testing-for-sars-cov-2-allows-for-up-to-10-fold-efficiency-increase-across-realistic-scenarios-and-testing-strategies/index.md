@@ -16,7 +16,7 @@ authors:
 publication: Frontiers in Public Health
 publication_short: Front. Public Health
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart

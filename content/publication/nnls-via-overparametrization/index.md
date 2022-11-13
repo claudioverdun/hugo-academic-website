@@ -7,7 +7,7 @@ authors:
   - J. Maly and C. Mayrink Verdun
 publication: " submitted, 2022"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart

@@ -9,7 +9,7 @@ authors:
 publication: International Conference on Machine Learning
 publication_short: ICML
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
