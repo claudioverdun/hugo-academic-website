@@ -6,8 +6,8 @@ authors:
   - C. Kümmerle
   - C. Mayrink Verdun
   - D. Stöger
-publication: Advances in Neural Information Processing Systems
-publication_short: NeurIPS
+publication: Advances in Neural Information Processing Systems (Spotlight, 3% best papers)
+publication_short: NeurIPS (Spotlight, 3% best papers)
 draft: false
 featured: false
 image:
