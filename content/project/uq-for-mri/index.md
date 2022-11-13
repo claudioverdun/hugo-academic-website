@@ -1,7 +1,7 @@
 ---
 slides: ""
 url_pdf: ""
-summary: Project in collaboration with Frederik Hoppe (RWTH Aachen),  Prof. Felix Krahmer (TUM), Prof. Marion Menzel (GE) and Holger Rauhut (RWTH Aachen).
+summary: Project in collaboration with Frederik Hoppe (RWTH Aachen),  Prof. Felix Krahmer (TUM), Prof. Marion Menzel (GE) and Prof. Holger Rauhut (RWTH Aachen).
 url_video: ""
 date: 2022-11-13
 external_link: ""
