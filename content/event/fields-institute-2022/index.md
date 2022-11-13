@@ -6,11 +6,11 @@ event_url: http://www.fields.utoronto.ca/activities/21-22/data-harmonic
 
 location: Fields Institute
 address:
-  # street: 450 Serra Mall
+  street: ''
   city: Toronto
-  # region: CA
-  # postcode: '94305'
-  # country: United States
+  region: ''
+  postcode: ''
+  country: Canada
 
 summary: ''
 abstract: 'In many applications, solutions of numerical problems are required to be nonnegative. For example, when one seeks to retrieve pixel intensity values or the chemical concentration of a substance. In this context, nonnegative least squares is a ubiquitous tool. Despite vast efforts, since the seminal work of Lawson and Hanson in the '70s, the nonnegativity assumption is still an obstacle for the scalability of many off-the-shelf solvers. Recently, in a different context, we started to see numerous developments in deep neural networks, where the training of overparametrized models via gradient descent lead to surprising generalization properties and to the retrieval of regularized solutions such as low-rank matrices. In this talk, I will connect the problem of nonnegative least squares with recent progress in the field of implicit bias of the gradient descent. This talk is based on joint work with Johannes Maly and Hung-Hsu Chou.'
