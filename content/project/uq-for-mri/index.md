@@ -42,11 +42,12 @@ based on the KKT conditions of this convex formulation. This technique was named
 LASSO (Zhang & Zhang ’14). Initial works on this method focused on real (sub-)Gaussian measurement
 matrices as a toy model. However, in medical imaging applications, such as in MRI inverse problems, the
 measurement systems possess physical constraints that translate into structured sensing matrices. From
-the mathematical point of view, several independence assumptions are made, e.g., between {{< math >}}$ X \hat{Σ}{−1} e_i ${{< math >}} and
+the mathematical point of view, several independence assumptions are made, e.g., between {{< math >}}$ X \hat{Σ}^{−1} e_i ${{< math >}} and
 {{< math >}}$ X_{−i} ${{< math >}}, where {{< math >}}$ \hat{Σ} = X^∗ X/n ${{< math >}} is the empirical covariance of the measurement operator {{< math >}}$ X \in \mathbb{R}^{m \times N},\, e_i${{< math >}} is the
 canonical basis vector and {{< math >}}$X_{−i}${{< math >}} represents the the matrix {{< math >}}$X${{< math >}} with the jth column replaced by a column
 consisting of zeros. Such strong assumptions do not hold for heavy-tailed random matrices such as those
 generated from bounded orthonormal systems and, in particular, randomly subsampled Fourier matrices.
+
 
 Our contribution was to extended the theory to bounded orthonormal systems, which includes subsampled
 Fourier matrices as a particular case. This allows us to construct valid confidence intervals, in a rigorous
