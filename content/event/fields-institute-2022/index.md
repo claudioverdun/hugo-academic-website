@@ -23,11 +23,11 @@ date: 2022-05-09T17:00:00.000Z
 featured: false
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: University of Toronto
+  city: ""
+  region: ""
+  postcode: ""
+  country: Canada
 title: "Nonnegative Least Squares: An overparametrized point of view"
 location: Fields Institute
 links: []
