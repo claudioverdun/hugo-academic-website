@@ -24,9 +24,6 @@ featured: false
 url_slides: ""
 address:
   street: University of Toronto
-  city: ""
-  region: ""
-  postcode: ""
   country: Canada
 title: "Nonnegative Least Squares: An overparametrized point of view"
 location: Fields Institute
