@@ -39,9 +39,9 @@ Even though many researchers are interested in performing uncertainty quantifica
 results for many real-world applications (Gawlikowski et al. ’22), even for simpler high-dimensional inverse problems, this is a very
 challenging issue and very few methods have been proposed. There is still no unified UQ theory for high-dimensional data problems.
 
-In the case of sparse regression, i.e., when we must retrieve the s-sparse vector {{< math >}}\beta_0 \in \mathbb{R}^N{{< math >}}
-from {{< math >}}y = X \beta_0 + \varepsilon \in \mathbb{R}^m{{< math >}} measurements, where m ≪ N , and the solution of the high-dimensional inverse problem
-is obtained via the LASSO (Tibshirani ’96), confidence intervals and hypothesis testing can be obtained
+In the case of sparse regression, i.e., when we must retrieve the s-sparse vector {{< math >}}$ \beta_0 \in \mathbb{R}^N ${{< math >}}
+from {{< math >}}$ y = X \beta_0 + \varepsilon \in \mathbb{R}^m ${{< math >}} measurements, where {{< math >}}$ m ≪ N ${{< math >}},
+and the solution of the high-dimensional inverse problem is obtained via the LASSO (Tibshirani ’96), confidence intervals and hypothesis testing can be obtained
 based on the KKT conditions of this convex formulation. This technique was named de-sparsified
 LASSO (Zhang & Zhang ’14). Initial works on this method focused on real (sub-)Gaussian measurement
 matrices as a toy model. However, in medical imaging applications, such as in MRI inverse problems, the
