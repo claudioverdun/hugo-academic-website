@@ -3,8 +3,8 @@ title: Escaping Saddle Points in Ill-Conditioned Matrix Completion with a Scalab
 publication_types:
   - "1"
 authors:
-  - Christian Kümmerle
-  - Claudio M. Verdun
+  - C. Kümmerle
+  - C. Mayrink Verdun
 publication: "Workshop on \"Beyond first-order methods in ML systems\" at the 37th International Conference on Machine Learning, Vienna, Austria"
 draft: false
 featured: false
