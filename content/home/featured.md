@@ -34,6 +34,6 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 4
 ---
 Click to see my [full list of publications.](./publication/)
