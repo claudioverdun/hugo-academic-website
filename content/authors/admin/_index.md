@@ -22,11 +22,11 @@ organizations:
     url: https://www.tum.de/
 education:
   courses:
-    - course: DSc in Mathematics
-      institution: Technical University of Munich
+    - course: PhD in Mathematics
+      institution: Technical University of Munich, Germany
       year: "2017 - now"
     - course: MSc in Applied Mathematics
-      institution: Federal University of Rio de Janeiro
+      institution: Federal University of Rio de Janeiro, Brazil
       year: "2014 - 2016"
 email: ""
 superuser: true
