@@ -1,5 +1,7 @@
 ---
-title: "Claudio\nMayrink Verdun"
+title: "Claudio
+
+Mayrink Verdun"
 role: PhD student in mathematics
 bio: "My research interests include foundations of machine learning, signal
   processing, "
