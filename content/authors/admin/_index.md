@@ -34,6 +34,6 @@ highlight_name: true
 ---
 I am interested in machine learning, compressive sensing, inverse problems, optimization and high-dimensional
 statistics. My goal is to develop an understanding of ML from first principles, to establish provable guarantees for its
-algorithms, and to apply them to medical technology problems. I'm currently interested in sparse and low-rank models, im-
-plicit bias of the gradient descent, probabilistic methods in data analysis and uncertainty quantification
+algorithms, and to apply them to medical technology problems. I'm currently interested in sparse and low-rank models,
+implicit bias of the gradient descent, probabilistic methods in data analysis and uncertainty quantification
 for high-dimensional statistics, iteratively reweighted algorithms as well as applications to MRI, one of my scientific passions.
