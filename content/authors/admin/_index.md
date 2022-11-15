@@ -1,12 +1,11 @@
 ---
-title: Claudio Mayrink Verdun
 role: PhD student in Mathematics
-bio: "Compressive Sensing - Machine Learning - Signal Processing"
+bio: Machine Learning - Compressive Sensing - Signal Processing
 interests:
+  - Machine learning
   - Compressive sensing
   - Optimization
   - Magnetic resonance imaging
-  - Machine learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,13 +23,14 @@ education:
   courses:
     - course: PhD in Mathematics
       institution: Technical University of Munich, Germany
-      year: "2017 - now"
+      year: 2017 - now
     - course: MSc in Applied Mathematics
       institution: Federal University of Rio de Janeiro, Brazil
-      year: "2014 - 2016"
-email: ""
+      year: 2014 - 2016
 superuser: true
 highlight_name: true
+title: Claudio Mayrink Verdun
+email: ""
 ---
 I am interested in machine learning, compressive sensing, inverse problems, optimization and high-dimensional
 statistics. My goal is to develop an understanding of ML from first principles, to establish provable guarantees for its
